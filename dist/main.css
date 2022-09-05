@@ -75,8 +75,10 @@
     width: 100%;
     height: 100%;
     background-color: rgba(18, 18, 18, 0.5); 
-/* 
-    visibility: hidden; */
+}
+
+.section1-Visibility-Hidden{
+    visibility: hidden
 }
 
 .section1-popup-box{
@@ -129,7 +131,7 @@
 
 }
 
-#section1-popup-box-resetBtn{
+.section1-popup-box-resetBtn{
     float: right;
     margin-right: 1vw;
     margin-bottom: 1vw;
@@ -144,9 +146,8 @@
     font-size: 16px;
     color: #ffffff;
     cursor: pointer;
-    /* visibility: hidden; */
 }
 
-#section1-popup-box-resetBtn:hover{
+.section1-popup-box-resetBtn:hover{
     background: #cca794;
 }
