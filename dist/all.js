@@ -23,6 +23,7 @@ function openSect1Popup() {
 function resetCounterBtn(){
     counterBtn = 0;
     closeSect1Popup()
+    sect1PopupResetBtn.classList.toggle("section1-Visibility-Hidden")
 }
 
 function closeSect1Popup() {
