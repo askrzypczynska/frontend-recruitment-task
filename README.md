@@ -4,6 +4,8 @@
 
 Strona stworzona według [designu](https://www.figma.com/file/dqY9uYrUYPyr5yjeECoy6X/Recruitment-Task).
 
+Tutaj link do strony: <https://askrzypczynska.github.io/frontend-recruitment-task/>
+
 Zawiera funkcjonalność po kliknięciu buttona:
 - po kliknięciu otwiera się popup
 - kliknięcie poza popup, lub w przycisk(x) zamyka popup
